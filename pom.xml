@@ -30,7 +30,7 @@
 						<muleVersion>4.2.2</muleVersion>
 						<username>sudarshang</username>
 						<password>Junnu@2020#</password>
-						<applicationName>mulesoft-cicd-sample1</applicationName>
+						<applicationName>mule-ci-cd-example</applicationName>
 						<environment>Sandbox</environment>
 						<workerType>MICRO</workerType>
 						<objectStoreV2>true</objectStoreV2>
